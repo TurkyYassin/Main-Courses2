@@ -440,20 +440,20 @@
   #offers .offers-items img {
     width: 350px;
     border-radius: 10px;
-    
+    margin-bottom: 20px;
   }
   
-  #offers .offers-items h3 button {
+  #offers .offers-items h3 button a{
     font-size: 21px;
     font-weight: bold;
     color: #1f1f1f;
     margin: 15px 0;
-    background: none;
+    background: #fff;
     transition: 0.5s;
     padding-left: 10px;
     padding-bottom: 10px;
   }
-  #offers .offers-items h3 button:hover{
+  #offers .offers-items h3 button a:hover{
    color: #F84D07;
   }
   
